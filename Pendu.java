@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Pendu {
     // Déclare le mot a trouver et les erreur max attribué
-    
     private static final String MOT_A_DECOUVRIR = "PENDU";
     private static final int MAX_ERREURS = 5;
 
